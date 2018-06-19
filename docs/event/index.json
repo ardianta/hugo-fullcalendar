@@ -16,4 +16,12 @@
         "url": "https://ardianta.github.io/hugo-fullcalendar/event/first-meetup/"
     }
     
+    , 
+    {
+        "title": "Kopdar Pertama",
+        "start": "2018-06-09",
+        "allDay": true,
+        "url": "https://ardianta.github.io/hugo-fullcalendar/event/kopdar-pertama/"
+    }
+    
 ]
