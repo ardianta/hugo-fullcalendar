@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://ardianta.github.io/hugo-fullcalendar/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hugo Events Calendar with Full Calendar"
 
 buildFuture = true
 
