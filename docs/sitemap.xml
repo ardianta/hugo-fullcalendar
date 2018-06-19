@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/event/workshop-hugo/</loc>
+    <loc>https://ardianta.github.io/hugo-fullcalendar/event/workshop-hugo/</loc>
     <lastmod>2018-06-23T22:43:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/event/first-meetup/</loc>
+    <loc>https://ardianta.github.io/hugo-fullcalendar/event/first-meetup/</loc>
     <lastmod>2018-06-19T22:05:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ardianta.github.io/hugo-fullcalendar/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/event/</loc>
+    <loc>https://ardianta.github.io/hugo-fullcalendar/event/</loc>
     <lastmod>2018-06-23T22:43:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ardianta.github.io/hugo-fullcalendar/</loc>
     <lastmod>2018-06-23T22:43:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ardianta.github.io/hugo-fullcalendar/tags/</loc>
     <priority>0</priority>
   </url>
   

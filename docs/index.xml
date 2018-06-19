@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Hugo Events Calendar with Full Calendar</title>
+    <link>https://ardianta.github.io/hugo-fullcalendar/</link>
+    <description>Recent content on Hugo Events Calendar with Full Calendar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Jun 2018 22:43:39 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ardianta.github.io/hugo-fullcalendar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Workshop Hugo</title>
-      <link>http://example.org/event/workshop-hugo/</link>
+      <link>https://ardianta.github.io/hugo-fullcalendar/event/workshop-hugo/</link>
       <pubDate>Sat, 23 Jun 2018 22:43:39 +0800</pubDate>
       
-      <guid>http://example.org/event/workshop-hugo/</guid>
+      <guid>https://ardianta.github.io/hugo-fullcalendar/event/workshop-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Meetup</title>
-      <link>http://example.org/event/first-meetup/</link>
+      <link>https://ardianta.github.io/hugo-fullcalendar/event/first-meetup/</link>
       <pubDate>Tue, 19 Jun 2018 22:05:05 +0800</pubDate>
       
-      <guid>http://example.org/event/first-meetup/</guid>
+      <guid>https://ardianta.github.io/hugo-fullcalendar/event/first-meetup/</guid>
       <description></description>
     </item>
     
