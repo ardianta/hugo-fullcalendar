@@ -4,5 +4,7 @@ title = "My New Hugo Site"
 
 buildFuture = true
 
+publishDir = "docs"
+
 [outputs]
     section = ["HTML", "JSON"]
