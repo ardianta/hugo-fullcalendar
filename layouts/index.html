@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fullcalendar.min.css" />
+    <link rel='stylesheet' href='{{ "css/fullcalendar.min.css" | absURL }}' />
 
 </head>
 
@@ -13,10 +13,10 @@
 
     <div id="calendar"></div>
 
-    <script src='{{ .Site.BaseURL }}js/moment.min.js'></script>
-    <script src='{{ .Site.BaseURL }}js/jquery.min.js'></script>
-    <script src="{{ .Site.BaseURL }}js/jquery-ui.custom.min.js"></script>
-    <script src='{{ .Site.BaseURL }}js/fullcalendar.min.js'></script>
+    <script src='{{ "/js/moment.min.js" | absURL }}'></script>
+    <script src='{{ "/js/jquery.min.js" | absURL}}'></script>
+    <script src='{{ "/js/jquery-ui.custom.min.js" | absURL}}'></script>
+    <script src='{{ "/js/fullcalendar.min.js" | absURL}}'></script>
 
     <script>
         $(document).ready(function () {
@@ -24,7 +24,7 @@
             console.log("Ready...");
 
             $('#calendar').fullCalendar({
-                events: "/event/index.json"
+                events: '{{ "/event/index.json" | absURL }}'
             })
 
         });

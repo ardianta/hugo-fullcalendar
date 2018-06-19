@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Hugo Events Calendar with Full Calendar</title>
-    <link rel="stylesheet" href="https://ardianta.github.io/hugo-fullcalendar/css/fullcalendar.min.css" />
+    <link rel='stylesheet' href='https://ardianta.github.io/hugo-fullcalendar/css/fullcalendar.min.css' />
 
 </head>
 
@@ -14,10 +14,10 @@
 
     <div id="calendar"></div>
 
-    <script src='https://ardianta.github.io/hugo-fullcalendar/js/moment.min.js'></script>
-    <script src='https://ardianta.github.io/hugo-fullcalendar/js/jquery.min.js'></script>
-    <script src="https://ardianta.github.io/hugo-fullcalendar/js/jquery-ui.custom.min.js"></script>
-    <script src='https://ardianta.github.io/hugo-fullcalendar/js/fullcalendar.min.js'></script>
+    <script src='https://ardianta.github.io/js/moment.min.js'></script>
+    <script src='https://ardianta.github.io/js/jquery.min.js'></script>
+    <script src='https://ardianta.github.io/js/jquery-ui.custom.min.js'></script>
+    <script src='https://ardianta.github.io/js/fullcalendar.min.js'></script>
 
     <script>
         $(document).ready(function () {
@@ -25,7 +25,7 @@
             console.log("Ready...");
 
             $('#calendar').fullCalendar({
-                events: "/event/index.json"
+                events: 'https:\/\/ardianta.github.io\/event\/index.json'
             })
 
         });
